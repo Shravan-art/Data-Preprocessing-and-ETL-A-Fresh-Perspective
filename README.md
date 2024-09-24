@@ -12,7 +12,7 @@ I recently published a blog on "𝐃𝐚𝐭𝐚 𝐏𝐫𝐞𝐩𝐫𝐨𝐜�
 
 
 
-In this blog, I delve into the critical roles that 𝐃𝐚𝐭𝐚 𝐏𝐫𝐞𝐩𝐫𝐨𝐜𝐞𝐬𝐬𝐢𝐧𝐠 𝐚𝐧𝐝 𝐄𝐓𝐋 (𝐄𝐱𝐭𝐫𝐚𝐜𝐭, 𝐓𝐫𝐚𝐧𝐬𝐟𝐨𝐫𝐦, 𝐋𝐨𝐚𝐝) play in the broader context of 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐜𝐞, 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠, 𝐚𝐧𝐝 𝐃𝐚𝐭𝐚 𝐀𝐧𝐚𝐥𝐲𝐭𝐢𝐜𝐬. From handling missing data to encoding categorical variables and scaling features, I explored several key techniques that ensure the data is clean, structured, and ready for further analysis.
+👉🏼 In this blog, I delve into the critical roles that 𝐃𝐚𝐭𝐚 𝐏𝐫𝐞𝐩𝐫𝐨𝐜𝐞𝐬𝐬𝐢𝐧𝐠 𝐚𝐧𝐝 𝐄𝐓𝐋 (𝐄𝐱𝐭𝐫𝐚𝐜𝐭, 𝐓𝐫𝐚𝐧𝐬𝐟𝐨𝐫𝐦, 𝐋𝐨𝐚𝐝) play in the broader context of 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐜𝐞, 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠, 𝐚𝐧𝐝 𝐃𝐚𝐭𝐚 𝐀𝐧𝐚𝐥𝐲𝐭𝐢𝐜𝐬. From handling missing data to encoding categorical variables and scaling features, I explored several key techniques that ensure the data is clean, structured, and ready for further analysis.
 
 
 While the blog provides a brief yet insightful background on these topics, it highlights how efficient data preprocessing can lead to better-performing models and more accurate results in machine learning algorithms. I also touch upon the significance of ETL pipelines in automating the data workflow, making it a crucial element for scalable data analytics solutions.
@@ -21,4 +21,5 @@ While the blog provides a brief yet insightful background on these topics, it hi
 Check out the blog to learn more about how mastering these concepts can unlock the true potential of your data in the realm of 𝐚𝐧𝐚𝐥𝐲𝐭𝐢𝐜𝐬 𝐚𝐧𝐝 𝐀𝐈!
 
 
-## 𝐁𝐥𝐨𝐠 𝐋𝐢𝐧𝐤 : https://medium.com/@shravanbirajdar125/in-this-blog-we-will-embark-on-a-journey-of-data-preprocessing-and-etl-f9f2f9589f8d
+## 𝐁𝐥𝐨𝐠 𝐋𝐢𝐧𝐤 : 👇🏼
+https://medium.com/@shravanbirajdar125/in-this-blog-we-will-embark-on-a-journey-of-data-preprocessing-and-etl-f9f2f9589f8d
