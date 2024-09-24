@@ -8,6 +8,10 @@
 
 I recently published a blog on "𝐃𝐚𝐭𝐚 𝐏𝐫𝐞𝐩𝐫𝐨𝐜𝐞𝐬𝐬𝐢𝐧𝐠 𝐚𝐧𝐝 𝐄𝐓𝐋" on my 𝐌𝐞𝐝𝐢𝐮𝐦 𝐚𝐜𝐜𝐨𝐮𝐧𝐭.
 
+![image](https://github.com/user-attachments/assets/2188ba82-dafc-49db-8d6e-227bf99b1eed)
+
+
+
 In this blog, I delve into the critical roles that 𝐃𝐚𝐭𝐚 𝐏𝐫𝐞𝐩𝐫𝐨𝐜𝐞𝐬𝐬𝐢𝐧𝐠 𝐚𝐧𝐝 𝐄𝐓𝐋 (𝐄𝐱𝐭𝐫𝐚𝐜𝐭, 𝐓𝐫𝐚𝐧𝐬𝐟𝐨𝐫𝐦, 𝐋𝐨𝐚𝐝) play in the broader context of 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐜𝐞, 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠, 𝐚𝐧𝐝 𝐃𝐚𝐭𝐚 𝐀𝐧𝐚𝐥𝐲𝐭𝐢𝐜𝐬. From handling missing data to encoding categorical variables and scaling features, I explored several key techniques that ensure the data is clean, structured, and ready for further analysis.
 
 
