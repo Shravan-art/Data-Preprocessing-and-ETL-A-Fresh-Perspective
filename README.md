@@ -22,6 +22,6 @@ Check out the blog to learn more about how mastering these concepts can unlock t
 
 
 ## 🎯 𝐁𝐥𝐨𝐠 𝐋𝐢𝐧𝐤 : 👇🏼
-[Medium_Blog](https://medium.com/@shravanbirajdar125/in-this-blog-we-will-embark-on-a-journey-of-data-preprocessing-and-etl-f9f2f9589f8d).
+[![Uploading image.png…]()](https://medium.com/@shravanbirajdar125/in-this-blog-we-will-embark-on-a-journey-of-data-preprocessing-and-etl-f9f2f9589f8d).
 
 
