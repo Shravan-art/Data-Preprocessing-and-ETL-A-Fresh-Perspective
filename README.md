@@ -21,5 +21,7 @@ While the blog provides a brief yet insightful background on these topics, it hi
 Check out the blog to learn more about how mastering these concepts can unlock the true potential of your data in the realm of 𝐚𝐧𝐚𝐥𝐲𝐭𝐢𝐜𝐬 𝐚𝐧𝐝 𝐀𝐈!
 
 
-## 𝐁𝐥𝐨𝐠 𝐋𝐢𝐧𝐤 : 👇🏼
-https://medium.com/@shravanbirajdar125/in-this-blog-we-will-embark-on-a-journey-of-data-preprocessing-and-etl-f9f2f9589f8d
+## 🎯 𝐁𝐥𝐨𝐠 𝐋𝐢𝐧𝐤 : 👇🏼
+[Medium_Blog](https://medium.com/@shravanbirajdar125/in-this-blog-we-will-embark-on-a-journey-of-data-preprocessing-and-etl-f9f2f9589f8d).
+
+
