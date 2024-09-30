@@ -1,4 +1,4 @@
-# 𝐃𝐚𝐭𝐚 𝐏𝐫𝐞𝐩𝐫𝐨𝐜𝐞𝐬𝐬𝐢𝐧𝐠 𝐚𝐧𝐝 𝐄𝐓𝐋: 𝐀 𝐅𝐫𝐞𝐬𝐡 𝐏𝐞𝐫𝐬𝐩𝐞𝐜𝐭𝐢𝐯𝐞
+![image](https://github.com/user-attachments/assets/d420b4a9-db55-4399-a5aa-95e41fcc843c)# 𝐃𝐚𝐭𝐚 𝐏𝐫𝐞𝐩𝐫𝐨𝐜𝐞𝐬𝐬𝐢𝐧𝐠 𝐚𝐧𝐝 𝐄𝐓𝐋: 𝐀 𝐅𝐫𝐞𝐬𝐡 𝐏𝐞𝐫𝐬𝐩𝐞𝐜𝐭𝐢𝐯𝐞
 
 
 # 𝔽𝕣𝕠𝕞 ℝ𝕒𝕨 𝕥𝕠 ℝ𝕖𝕗𝕚𝕟𝕖𝕕
@@ -22,6 +22,6 @@ Check out the blog to learn more about how mastering these concepts can unlock t
 
 
 ## 🎯 𝐁𝐥𝐨𝐠 𝐋𝐢𝐧𝐤 : 👇🏼
-[![Uploading image.png…]()](https://medium.com/@shravanbirajdar125/in-this-blog-we-will-embark-on-a-journey-of-data-preprocessing-and-etl-f9f2f9589f8d).
+["C:\Users\Shravan\OneDrive\Pictures\Screenshots\Dashboard Icons\free-medium-icon-2177-thumb.png"](https://medium.com/@shravanbirajdar125/in-this-blog-we-will-embark-on-a-journey-of-data-preprocessing-and-etl-f9f2f9589f8d).
 
 
