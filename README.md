@@ -22,6 +22,6 @@ Check out the blog to learn more about how mastering these concepts can unlock t
 
 
 ## 🎯 𝐁𝐥𝐨𝐠 𝐋𝐢𝐧𝐤 : 👇🏼
-[![Medium Blog](https://img.shields.io/badge/Medium%20Blog-Data%20Preprocessing%20and%20ETL-F9F2F9589F8D?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@shravanbirajdar125/Data-Preprocessing-and-ETL-f9f2f9589f8d)](https://medium.com/@shravanbirajdar125/Data-Preprocessing-and-ETL-f9f2f9589f8d)
+[![Medium Blog](https://img.shields.io/badge/Medium%20Blog-Data%20Preprocessing%20and%20ETL-blue&logo=Medium&logoColor=blue&link=https://medium.com/@shravanbirajdar125/Data-Preprocessing-and-ETL-f9f2f9589f8d)](https://medium.com/@shravanbirajdar125/Data-Preprocessing-and-ETL-f9f2f9589f8d)
 
 
